@@ -50,7 +50,7 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [CE Programming](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C programming on the TI-84 Plus CE / TI-83 Premium CE calculators
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/) - Lots of books and resources for many programming languages and etc.
 - [Node Version Manager for Windows](https://github.com/coreybutler/nvm-windows)
-- [Windows Terminal](https://github.com/microsoft/terminal/) - Microsoft's new Windows Terminal (beta)
+- [Windows Terminal](https://github.com/microsoft/terminal/) - Microsoft's new Windows Terminal (preview build)
 
 ## Books
 - [CP Book](https://cpbook.net/#CP2content) (There is a pdf of CP3 in Google Classroom)
