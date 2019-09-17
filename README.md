@@ -66,6 +66,7 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [.NET Core/Framework](https://dotnet.microsoft.com/download) (C#)
 - [MinGW](https://nuwen.net/mingw.html#install) (C, C++)
 - [Python](https://www.python.org/downloads/)
+- [LaTeX](https://www.latex-project.org)
 
 ## Miscellaneous
 - [Git](https://git-scm.com) - Version-control system
