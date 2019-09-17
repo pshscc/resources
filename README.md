@@ -5,6 +5,7 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [HackerRank](https://www.hackerrank.com)
 - [Codeforces](https://codeforces.com)
 - [CodingBat](https://codingbat.com/java)
+- [UVa Online Judge](https://uva.onlinejudge.org)
 - [USACO](http://usaco.org/)
 - [LeetCode](https://leetcode.com) - Focuses on interview problems
 
@@ -77,6 +78,7 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [Android Studio](https://developer.android.com/studio/) - Android development
 - [Dark Reader](https://darkreader.org) - Enable Dark mode for Chrome, Firefox, or Safari 😎
 - [Bookmarlet Creator](https://mrcoles.com/bookmarklet/) (JavaScript with jQuery Support)
+- [Methods to Solve](https://cpbook.net/methodstosolve) - UVa and Kattis Problems sorted by topic (with hints!)
 - [Online CP Contest Calendar](https://clist.by)
 - [Java Operator Precedence](https://introcs.cs.princeton.edu/java/11precedence/)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com) - Complexities of common data structures and sorting algorithms
