@@ -65,7 +65,7 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html) - Keep in mind that competitions use **Java 8** if Java is allowed to be used
 - [Node.js](https://nodejs.org/en/) (JavaScript)
 - [.NET Core/Framework](https://dotnet.microsoft.com/download) (C#)
-- [MinGW](https://nuwen.net/mingw.html#install) (C, C++)
+- [MinGW](https://nuwen.net/mingw.html) (C, C++)
 - [Python](https://www.python.org/downloads/)
 - [LaTeX](https://www.latex-project.org)
 
