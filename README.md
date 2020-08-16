@@ -7,14 +7,14 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [CodingBat](https://codingbat.com/java)
 - [UVa Online Judge](https://uva.onlinejudge.org)
 - [USACO](http://usaco.org/)
+- [AtCoder](https://atcoder.jp/)
 - [LeetCode](https://leetcode.com) - Focuses on interview problems
 
 ## Subreddits
-- [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Memes and jokes in various languages
-- [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
-- [/r/gamedev](https://www.reddit.com/r/gamedev/)
-- [/r/webdev](https://www.reddit.com/r/webdev/)
-- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
+- [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) - Memes and jokes in various languages
+- [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+- [r/gamedev](https://www.reddit.com/r/gamedev/)
+- [r/webdev](https://www.reddit.com/r/webdev/)
 
 ## Discord Servers
 - [USACO](https://discord.gg/bessMBe) (Unofficial)
@@ -51,11 +51,13 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [CE Programming](https://github.com/CE-Programming/toolchain) - Toolchain and libraries for C programming on the TI-84 Plus CE / TI-83 Premium CE calculators
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/) - Lots of books and resources for many programming languages and etc.
 - [Node Version Manager for Windows](https://github.com/coreybutler/nvm-windows)
-- [Windows Terminal](https://github.com/microsoft/terminal/) - Microsoft's new Windows Terminal (preview build)
+- [Windows Terminal](https://github.com/microsoft/terminal/) - Microsoft's new Windows Terminal
 
 ## Books
 - [CP Book](https://cpbook.net/#CP2content) (There is a pdf of CP3 in Google Classroom)
 - [Free Books for many languages](https://ebookfoundation.github.io/free-programming-books/)
+- [Intro USACO Book - Java](http://darrenyao.com/usacobook/java.pdf)
+- [Intro USACO Book - C++](http://darrenyao.com/usacobook/cpp.pdf)
 
 ## Forums/Portals
 - [Stack Overflow](https://stackoverflow.com) - ⭐ You will find most answers to your questions here
@@ -86,3 +88,5 @@ Here is a compiled list of resources that may be useful for competitive programm
 - [Google Cloud](https://cloud.google.com)
 - [G Suite](https://gsuite.google.com/)
 - [Heroku](https://www.heroku.com/) - Build, run, and operate applications in the cloud
+- [USACO FAQ](https://darren-yao.gitbook.io/darren-s-blog/usaco-faq)
+- [USACO Guide](https://usaco-guide.vercel.app/)
